@@ -1,0 +1,9 @@
+name: CustomCommand
+main: guma.customcommand.Main
+version: 1.0
+author: sweetenpotato
+api-version: 1.15
+commands:
+  hello:
+    description: æ»≥Á«œººø‰!
+    usage: /hello
